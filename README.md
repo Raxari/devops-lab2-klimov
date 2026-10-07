@@ -37,4 +37,3 @@ docker rm -f klimov-01-lr2-web
 docker image rm klimov-01/probe:0.9
 ```
 
-Не удаляйте тома и контейнеры других лабораторных работ.
